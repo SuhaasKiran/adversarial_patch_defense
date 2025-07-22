@@ -1,7 +1,7 @@
 # Adversarial Patch Defense Project (CS682: Neural Networks)
 
 ## Overview
-This project implements atargeted  adversarial patch attack based on [1] and defense mechanism using a pretrained ResNet34 model on the Tiny ImageNet dataset. The adversarial patches are designed to mislead the classifier into predicting a target class, and a defense mechanism (Segment and Complete) is applied to mitigate the attack. The code evaluates the effectiveness of both the attack and defense across different patch sizes and positions.
+This project implements atargeted  adversarial patch attack based on [1] and defense mechanism using a pretrained ResNet34 model on the Tiny ImageNet dataset. The adversarial patches are designed to mislead the classifier into predicting a target class, and a defense mechanism (Segment and Complete [2]) is applied to mitigate the attack. The code evaluates the effectiveness of both the attack and defense across different patch sizes and positions.
 
 ## Setup Instructions
 1. **Install Dependencies**:
