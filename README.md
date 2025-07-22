@@ -25,5 +25,7 @@ python main.py
 ## Results
 For results and the detailed overview of the project, check the project report - cs682_project_report_final.
 
+## References
 [1] https://arxiv.org/abs/1712.09665
+
 [2] https://arxiv.org/abs/2112.04532
